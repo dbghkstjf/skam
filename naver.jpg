@@ -1,0 +1,845 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/lib/lightbox/css/lightbox.min.css" /><link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690/blogs/style/content/font.css?_version_=tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690" /><link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690/blogs/style/content/content.css?_version_=tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690" /><!--[if lt IE 9]><script src="https://t1.daumcdn.net/tistory_admin/lib/jquery/jquery-1.12.4.min.js"></script><![endif]--><!--[if gte IE 9]>
+<!--><script src="https://t1.daumcdn.net/tistory_admin/lib/jquery/jquery-3.2.1.min.js"></script><!--<![endif]-->
+<script src="https://t1.daumcdn.net/tistory_admin/lib/lightbox/js/lightbox-plus-jquery.min.js"></script>
+<script>
+lightbox.options.fadeDuration = 200;
+lightbox.options.resizeDuration = 200;
+lightbox.options.wrapAround = false;
+lightbox.options.albumLabel = "%1 / %2";
+</script>
+<script>var tjQuery = jQuery.noConflict(true);</script><style type="text/css">.tt_article_useless_p_margin p {padding-top:0 !important;padding-bottom:0 !important;margin-top:0 !important;margin-bottom:0 !important;}</style><meta name="referrer" content="always"><link rel="icon" href="//t1.daumcdn.net/tistory_admin/static/top/favicon_0630.ico" /><link rel="apple-touch-icon" href="//img1.daumcdn.net/thumb/C180x180/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2419583D566C06DE1F">
+<link rel="apple-touch-icon" sizes="76x76" href="//img1.daumcdn.net/thumb/C76x76/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2419583D566C06DE1F">
+<link rel="apple-touch-icon" sizes="120x120" href="//img1.daumcdn.net/thumb/C120x120/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2419583D566C06DE1F">
+<link rel="apple-touch-icon" sizes="152x152" href="//img1.daumcdn.net/thumb/C152x152/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2419583D566C06DE1F">
+<meta name="google-adsense-platform-account" content="ca-host-pub-9691043933427338">
+<meta name="google-adsense-platform-domain" content="tistory.com">
+<meta name="description" content="안녕하세요? IT&amp;GAME 입니다. 이번 시간에는 포털사이트 로고를 보도록 하겠습니다. 별로 의미 없는 시간 같지만, 그냥 그렇죠... 뭐... Daum  ==================================== Naver  ====================..">
+
+<!-- BEGIN OPENGRAPH -->
+<link rel="canonical" href="https://itandgame.tistory.com/94" /><meta property="og:type" content="article"><meta property="og:url" content="https://itandgame.tistory.com/94" ><meta property="og:article:author" content="볼봇" ><meta property="og:site_name" content="IT &amp; GAME 의 최신형 블로그" ><meta property="og:title" content="포털사이트 로고 모음" ><meta name="by" content="볼봇" ><meta property="og:description" content="안녕하세요? IT&amp;GAME 입니다. 이번 시간에는 포털사이트 로고를 보도록 하겠습니다. 별로 의미 없는 시간 같지만, 그냥 그렇죠... 뭐... Daum  ==================================== Naver  ====================.." ><meta property="og:image" content="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F236D2C3C55CD2E4607" >
+<!-- END OPENGRAPH -->
+
+
+
+<!-- BEGIN TWITTERCARD -->
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@TISTORY"><meta name="twitter:title" content="포털사이트 로고 모음" ><meta name="twitter:description" content="안녕하세요? IT&amp;GAME 입니다. 이번 시간에는 포털사이트 로고를 보도록 하겠습니다. 별로 의미 없는 시간 같지만, 그냥 그렇죠... 뭐... Daum  ==================================== Naver  ====================.." ><meta property="twitter:image" content="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F236D2C3C55CD2E4607" >
+<!-- END TWITTERCARD -->
+
+
+
+<!-- BEGIN DAUMAPP -->
+<meta property="dg:plink" content="https://itandgame.tistory.com/94" ><meta name="plink" content="https://itandgame.tistory.com/94" ><meta name="title" content="포털사이트 로고 모음" ><meta name="article:media_name" content="IT &amp; GAME 의 최신형 블로그" ><meta property="article:mobile_url" content="https://itandgame.tistory.com/m/94" ><meta property="article:pc_url" content="https://itandgame.tistory.com/94" ><meta property="article:mobile_view_url" content="https://itandgame.tistory.com/m/94" ><meta property="article:pc_view_url" content="https://itandgame.tistory.com/94" ><meta property="article:talk_channel_view_url" content="https://itandgame.tistory.com/m/94" ><meta property="article:pc_service_home" content="https://www.tistory.com" ><meta property="article:mobile_service_home" content="https://www.tistory.com/m" ><meta property="article:txid" content="1847232_94" /><meta property="article:published_time" content="2015-08-14T09:10:40+09:00" ><meta property="og:regDate" content="20150814091040" ><meta property="article:modified_time" content="2015-08-14T09:10:44+09:00" >
+<!-- END DAUMAPP -->
+
+
+
+<!-- BEGIN STRUCTURED_DATA -->
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BlogPosting","mainEntityOfPage":{"@id":"https:\/\/itandgame.tistory.com\/94"},"url":"https:\/\/itandgame.tistory.com\/94","headline":"\ud3ec\ud138\uc0ac\uc774\ud2b8 \ub85c\uace0 \ubaa8\uc74c","description":"\uc548\ub155\ud558\uc138\uc694? IT&GAME \uc785\ub2c8\ub2e4. \uc774\ubc88 \uc2dc\uac04\uc5d0\ub294 \ud3ec\ud138\uc0ac\uc774\ud2b8 \ub85c\uace0\ub97c \ubcf4\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4. \ubcc4\ub85c \uc758\ubbf8 \uc5c6\ub294 \uc2dc\uac04 \uac19\uc9c0\ub9cc, \uadf8\ub0e5 \uadf8\ub807\uc8e0... \ubb50... Daum  ==================================== Naver  ====================..","author":{"@type":"Person","name":"\ubcfc\ubd07"},"image":{"@type":"ImageObject","url":"https:\/\/img1.daumcdn.net\/thumb\/R800x0\/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F236D2C3C55CD2E4607","width":"800px","height":"800px"},"datePublished":"20150814T09:10:40+09:00","dateModified":"20150814T09:10:44+09:00","publisher":{"@type":"Organization","name":"TISTORY","logo":{"@type":"ImageObject","url":"https:\/\/t1.daumcdn.net\/tistory_admin\/static\/images\/openGraph\/opengraph.png","width":"800px","height":"800px"}}}</script><meta name="robots" content="max-image-preview:large">
+<!-- END STRUCTURED_DATA -->
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width">
+<title>포털사이트 로고 모음</title>
+<link rel="stylesheet" href="https://tistory1.daumcdn.net/tistory/0/pg_Poster/style.css">
+<script src="//t1.daumcdn.net/tistory_admin/lib/jquery/jquery-1.12.4.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690/blogs/plugins/A_ShareEntryWithSNS/css/shareEntryWithSNS.css?_version_=tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690">
+<script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690/blogs/plugins/A_ShareEntryWithSNS/script/shareEntryWithSNS.js?_version_=tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690"></script>
+
+		<link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690/blogs/plugins/CommentCaptcha/css/captcha.css?_version_=tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690" />
+		<script type="text/javascript">
+			var needCommentCaptcha = true;
+			var commentCaptchaType = 'bottom';
+		</script>
+<style type="text/css">
+		#daumSearchBox {
+			height: 21px;
+			background-image : url(//i1.daumcdn.net/imgsrc.search/search_all/show/tistory/plugin/bg_search2_2.gif);
+			margin: 5px auto ;
+			padding: 0;
+		}
+		#daumSearchBox input {
+			background: none;
+			margin : 0;
+			padding : 0;
+			border : 0;
+		}
+		#daumSearchBox #daumLogo {
+			width: 34px;
+			height: 21px;
+			float: left;
+			margin-right: 5px;
+			background-image : url(//i1.daumcdn.net/img-media/tistory/img/bg_search1_2_2010ci.gif);
+		}
+		#daumSearchBox #show_q {
+			background-color: transparent;
+			border: none;
+			font: 12px Gulim, Sans-serif;
+			color: #555;
+			margin-top: 4px;
+			margin-right: 15px;
+			float: left;
+		}
+
+		#daumSearchBox #show_btn {
+			background-image : url(//i1.daumcdn.net/imgsrc.search/search_all/show/tistory/plugin/bt_search_2.gif);
+			width: 37px;
+			height: 21px;
+			float: left;
+			margin:0;
+			cursor:pointer;
+			text-indent:-1000em;
+		}
+	</style>
+<link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690/blogs/plugins/TistoryProfileLayer/style.css?_version_=tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690" />
+<script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690/blogs/plugins/TistoryProfileLayer/profile.js?_version_=tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690"></script>
+	<style type="text/css">
+		.another_category { border: 1px solid #E5E5E5; padding: 10px 10px 5px; margin:10px 0; clear: both; }
+		.another_category h4 { font-size: 12px !important; margin: 0 !important; border-bottom: 1px solid #E5E5E5 !important; padding: 2px 0 6px !important; }
+		.another_category h4 a { font-weight: bold !important; }
+		.another_category table { table-layout: fixed; border-collapse: collapse; width: 100% !important; margin-top: 10px !important; }
+		* html .another_category table { width: auto !important; }
+		*:first-child+html .another_category table { width: auto !important; }
+		.another_category th, .another_category td { padding: 0 0 4px !important; }
+		.another_category th { text-align: left; font-size: 12px !important; font-weight: normal;  word-break: break-all; overflow: hidden; line-height: 1.5; }
+		.another_category td { text-align: right; width: 80px; font-size: 11px; }
+		.another_category th a { font-weight: normal; text-decoration: none; border: none !important; }
+		.another_category th a.current{ font-weight: bold; text-decoration: none !important; border-bottom: 1px solid !important; }
+		.another_category th span { font-weight: normal; text-decoration: none; font: 10px Tahoma, Sans-serif; border: none !important; }
+
+		.another_category_color_gray, .another_category_color_gray h4 { border-color: #E5E5E5 !important; }
+		.another_category_color_gray * { color: #909090 !important; }
+		.another_category_color_gray th a.current{border-color:#909090 !important;}
+		.another_category_color_gray h4, .another_category_color_gray h4 a { color: #737373 !important; }
+
+
+		.another_category_color_red, .another_category_color_red h4 { border-color: #F6D4D3 !important;  }
+		.another_category_color_red * { color: #E86869 !important; }
+		.another_category_color_red th a.current{border-color:#E86869 !important;}
+		.another_category_color_red h4, .another_category_color_red h4 a { color: #ED0908 !important; }
+
+
+		.another_category_color_green, .another_category_color_green h4 { border-color: #CCE7C8 !important; }
+		.another_category_color_green * { color: #64C05B !important; }
+		.another_category_color_green th a.current{border-color:#64C05B !important;}
+		.another_category_color_green h4, .another_category_color_green h4 a { color: #3EA731 !important; }
+
+
+		.another_category_color_blue, .another_category_color_blue h4 { border-color: #C8DAF2 !important; }
+		.another_category_color_blue * { color: #477FD6 !important; }
+		.another_category_color_blue th a.current{border-color:#477FD6 !important;}
+		.another_category_color_blue h4, .another_category_color_blue h4 a { color: #1960CA !important; }
+
+
+		.another_category_color_violet, .another_category_color_violet h4 { border-color: #E1CEEC !important;  }
+		.another_category_color_violet * { color:#9D64C5 !important; }
+		.another_category_color_violet th a.current{border-color:#9D64C5 !important;}
+		.another_category_color_violet h4, .another_category_color_violet h4 a { color: #7E2CB5 !important; }
+	</style>
+<script type="text/javascript">
+        
+        window.TistoryBlog = {
+            basePath: "",
+            url: "https://itandgame.tistory.com",
+            tistoryUrl: "https://itandgame.tistory.com",
+			manageUrl: 'https://itandgame.tistory.com/manage',
+            token: 'fsug6yXgDkaWAYnVAqSc2g=='
+        };
+        var servicePath = "";
+        var blogURL = "";
+    </script>
+
+	<script> (function() { window.orgjQuery = window.jQuery; window.jQuery = tjQuery })()</script>
+    <script type="text/javascript" defer src=https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690/blogs/script/reaction/reaction-button-container.min.js?_version_=tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690></script>
+    <script> (function() { window.jQuery = window.orgjQuery; delete window.orgjQuery })()</script>
+        <script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690/blogs/script/_/base.js?_version_=tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690"></script>
+        <link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690/blogs/style/dialog.css?_version_=tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690"/>
+            <link rel="stylesheet" type="text/css" href="//t1.daumcdn.net/tistory_admin/www/style/top/font.css">
+    <link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690/blogs/style/postBtn.css?_version_=tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690"/>
+        <link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690/blogs/style/component/tistory.css?_version_=tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690" />
+        <script type="text/javascript" src="//developers.kakao.com/sdk/js/kakao.min.js"></script></head>
+<body id="tt-body-page" class="color-gray post-type-text paging-view-more">
+<script type="text/javascript">
+	(function() {
+		if (!window.T) {
+			window.T = {}
+		}
+		window.T.config = {"TOP_SSL_URL":"https:\/\/www.tistory.com","PREVIEW":false,"ROLE":"guest","PREV_PAGE":"\/95","NEXT_PAGE":"\/93","BLOG":{"isDormancy":false,"title":"IT & GAME \uc758 \ucd5c\uc2e0\ud615 \ube14\ub85c\uadf8"},"NEED_COMMENT_LOGIN":false,"COMMENT_LOGIN_CONFIRM_MESSAGE":"","LOGIN_URL":"https:\/\/www.tistory.com\/auth\/login\/?redirectUrl=http%3A%2F%2Fitandgame.tistory.com%2F94","DEFAULT_URL":"https:\/\/itandgame.tistory.com","USER":{"name":null,"homepage":null},"ROLE_GROUP":"visitor","SUBSCRIPTION":{"status":"none","isConnected":false,"isProcessing":false,"isPending":false,"isWait":false,"isNone":true},"IS_LOGIN":false,"HAS_BLOG":false,"TOP_URL":"https:\/\/www.tistory.com","JOIN_URL":"https:\/\/www.tistory.com\/member\/join"};
+		window.appInfo = {"domain":"tistory.com","topUrl":"https:\/\/www.tistory.com","loginUrl":"https:\/\/www.tistory.com\/auth\/login","logoutUrl":"https:\/\/www.tistory.com\/auth\/logout"};
+
+        window.initData = {};
+        
+	})();
+</script>
+
+<script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690/blogs/script/blog/common.js?_version_=tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690"></script>
+<div style="margin:0; padding:0; border:none; background:none; float:none; clear:none; z-index:0"></div>
+<div id="acc-nav">
+	<a href="#content">본문 바로가기</a>
+</div>
+<div id="wrap">
+	<header id="header">
+		<h1><a href="/">IT &amp; GAME 의 최신형 블로그</a></h1>
+		<button type="button" class="mobile-menu"><span>메뉴</span></button>
+		<div class="menu">
+			<nav id="gnb">
+				<ul class="tt_category">
+	<li class="">
+		<a class="link_tit" href="/category">
+			IT &amp; GAME 전체목록							<span class="c_cnt">(163)</span>
+			
+					</a>
+
+				<ul class="category_list">
+							<li class="">
+					<a class="link_item" href="/category/IT%EA%B4%80%EB%A0%A8">
+						IT관련													<span class="c_cnt">(71)</span>
+						
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/IT%EA%B4%80%EB%A0%A8/%5BIT%5D%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8">
+									[IT] 프로그램
+																			<span class="c_cnt">(17)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/IT%EA%B4%80%EB%A0%A8/%5BIT%5D%20%EC%9C%A0%EC%9A%A9%ED%95%9C%EC%A0%95%EB%B3%B4">
+									[IT] 유용한정보
+																			<span class="c_cnt">(45)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/IT%EA%B4%80%EB%A0%A8/%5BIT%5D%20%EC%97%AC%EB%9F%AC%EA%B0%80%EC%A7%80%20%ED%9B%84%EA%B8%B0">
+									[IT] 여러가지 후기
+																			<span class="c_cnt">(9)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/%EC%95%B1%20%EC%B6%94%EC%B2%9C">
+						앱 추천													<span class="c_cnt">(11)</span>
+						
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%95%B1%20%EC%B6%94%EC%B2%9C/%5Bapk%5D%EC%95%B1%EC%B6%94%EC%B2%9C">
+									[apk]앱추천
+																			<span class="c_cnt">(9)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%95%B1%20%EC%B6%94%EC%B2%9C/%5Bapk%5D%EC%95%B1%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C">
+									[apk]앱다운로드
+																			<span class="c_cnt">(2)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/media%20%EC%B6%94%EC%B2%9C">
+						media 추천													<span class="c_cnt">(3)</span>
+						
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/media%20%EC%B6%94%EC%B2%9C/%5Bcam%5D%EA%BF%80%EC%9E%BC%EB%8F%99%EC%98%81%EC%83%81">
+									[cam]꿀잼동영상
+																			<span class="c_cnt">(3)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/media%20%EC%B6%94%EC%B2%9C/%5Bcam%5D%EB%AC%B4%EC%84%9C%EC%9A%B4%EB%8F%99%EC%98%81%EC%83%81">
+									[cam]무서운동영상
+																			<span class="c_cnt">(0)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/%EC%82%AC%EC%A7%84%20%EC%B6%94%EC%B2%9C">
+						사진 추천													<span class="c_cnt">(3)</span>
+						
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%82%AC%EC%A7%84%20%EC%B6%94%EC%B2%9C/%5B%EC%82%AC%EC%A7%84%5D%EC%9E%AC%EB%AF%B8%EC%9E%88%EB%8A%94%20%EC%82%AC%EC%A7%84">
+									[사진]재미있는 사진
+																			<span class="c_cnt">(1)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%82%AC%EC%A7%84%20%EC%B6%94%EC%B2%9C/%5B%EC%82%AC%EC%A7%84%5D%20%EC%8B%A0%EA%B8%B0%ED%95%9C%20%EC%82%AC%EC%A7%84">
+									[사진] 신기한 사진
+																			<span class="c_cnt">(1)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%82%AC%EC%A7%84%20%EC%B6%94%EC%B2%9C/%5B%EC%82%AC%EC%A7%84%5D%EC%9E%90%EC%97%B0%ED%99%98%EA%B2%BD">
+									[사진]자연환경
+																			<span class="c_cnt">(1)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/%EC%82%AC%EC%83%9D%ED%99%9C">
+						사생활													<span class="c_cnt">(32)</span>
+						
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%82%AC%EC%83%9D%ED%99%9C/%5BTIP%5D%EB%82%98%EB%A7%8C%EC%9D%98%EC%A7%80%EC%8B%9D">
+									[TIP]나만의지식
+																			<span class="c_cnt">(24)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%82%AC%EC%83%9D%ED%99%9C/%5BStory%5D%EB%82%98%EC%9D%98%20%EC%9D%B4%EC%95%BC%EA%B8%B0">
+									[Story]나의 이야기
+																			<span class="c_cnt">(8)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/%EC%9B%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D">
+						웹 프로그래밍													<span class="c_cnt">(4)</span>
+						
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%9B%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%5BCode%5DHTML">
+									[Code]HTML
+																			<span class="c_cnt">(2)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%9B%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%5BCode%5DPHP">
+									[Code]PHP
+																			<span class="c_cnt">(2)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%9B%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%5BCode%5DJavaScript">
+									[Code]JavaScript
+																			<span class="c_cnt">(0)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/%EA%B2%8C%EC%9E%84">
+						게임													<span class="c_cnt">(13)</span>
+						
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/%EA%B2%8C%EC%9E%84/%5B%EB%A7%88%ED%81%AC%5D%ED%83%88%EC%B6%9C%EB%A7%B5%26%EC%9B%94%EB%93%9C">
+									[마크]탈출맵&amp;월드
+																			<span class="c_cnt">(2)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EA%B2%8C%EC%9E%84/%5B%EB%A7%88%ED%81%AC%5D%EC%9C%A0%EC%9A%A9%ED%95%9CTIP">
+									[마크]유용한TIP
+																			<span class="c_cnt">(7)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EA%B2%8C%EC%9E%84/%5B%EA%B2%8C%EC%9E%84%5DFreeBirdGames">
+									[게임]FreeBirdGames
+																			<span class="c_cnt">(1)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EA%B2%8C%EC%9E%84/%5B%EA%B2%8C%EC%9E%84%5D%EB%98%90%20%EB%8B%A4%EB%A5%B8%20%EA%B2%8C%EC%9E%84">
+									[게임]또 다른 게임
+																			<span class="c_cnt">(3)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/Daum">
+						Daum													<span class="c_cnt">(4)</span>
+						
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/Daum/%5BDaum%5D%20%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD%20%EC%8A%A4%ED%86%A0%EB%A6%AC">
+									[Daum] 공지사항 스토리
+																			<span class="c_cnt">(2)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/Daum/%5BDaum%5D%20%EC%84%9C%EB%B9%84%EC%8A%A4">
+									[Daum] 서비스
+																			<span class="c_cnt">(2)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/%5BStory%5DIT%26GAME%20%EC%95%8C%EB%A6%BC">
+						[Story]IT&amp;GAME 알림													<span class="c_cnt">(10)</span>
+						
+											</a>
+
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/History">
+						History													<span class="c_cnt">(1)</span>
+						
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/History/%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%98%20%EC%97%AD%EC%82%AC">
+									인터넷의 역사
+																			<span class="c_cnt">(0)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/History/%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%97%AD%EC%82%AC">
+									사이트의 역사
+																			<span class="c_cnt">(0)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/History/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EC%97%AD%EC%82%AC">
+									컴퓨터의 역사
+																			<span class="c_cnt">(1)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/History/%EA%B0%80%EC%A0%84%EC%A0%9C%ED%92%88%20%EC%97%AD%EC%82%AC">
+									가전제품 역사
+																			<span class="c_cnt">(0)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/Music">
+						Music													<span class="c_cnt">(1)</span>
+						
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/Music/%EA%B2%8C%EC%9E%84%20OST">
+									게임 OST
+																			<span class="c_cnt">(1)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/Music/%EC%98%81%ED%99%94%20OST">
+									영화 OST
+																			<span class="c_cnt">(0)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/Music/%EC%B6%94%EC%B2%9C%20%EC%9D%8C%EC%95%85">
+									추천 음악
+																			<span class="c_cnt">(0)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/%ED%96%89%EB%B3%B5%ED%95%9C%20%ED%94%BC%EC%95%84%EB%8B%88%EC%8A%A4%ED%8A%B8">
+						행복한 피아니스트													<span class="c_cnt">(3)</span>
+						
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/%ED%96%89%EB%B3%B5%ED%95%9C%20%ED%94%BC%EC%95%84%EB%8B%88%EC%8A%A4%ED%8A%B8/%EC%96%B4%EB%A0%A4%EC%9A%B4%20%EC%9D%8C%EC%95%85%20%EA%B3%B5%EB%9E%B5">
+									어려운 음악 공략
+																			<span class="c_cnt">(1)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%ED%96%89%EB%B3%B5%ED%95%9C%20%ED%94%BC%EC%95%84%EB%8B%88%EC%8A%A4%ED%8A%B8/%EA%B0%90%EB%8F%99%EC%9D%98%20%EC%9D%8C%EC%95%85%20%EA%B3%B5%EB%9E%B5">
+									감동의 음악 공략
+																			<span class="c_cnt">(2)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%ED%96%89%EB%B3%B5%ED%95%9C%20%ED%94%BC%EC%95%84%EB%8B%88%EC%8A%A4%ED%8A%B8/%EC%A2%8B%EC%9D%80%20%EC%9D%8C%EC%95%85%20%EA%B3%B5%EB%9E%B5">
+									좋은 음악 공략
+																			<span class="c_cnt">(0)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/CentOS">
+						CentOS													<span class="c_cnt">(5)</span>
+						
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/CentOS/%EC%BB%A4%EB%A7%A8%EB%93%9C%EC%A0%95%EB%A6%AC">
+									커맨드정리
+																			<span class="c_cnt">(5)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/CentOS/%EC%A7%80%EC%8B%9D">
+									지식
+																			<span class="c_cnt">(0)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/C%23">
+						C#													<span class="c_cnt">(1)</span>
+						
+											</a>
+
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/Java">
+						Java													<span class="c_cnt">(0)</span>
+						
+											</a>
+
+					
+				</li>
+					</ul>
+			</li>
+</ul>
+			</nav>
+			<div class="social-link">
+				
+				
+				
+				
+			</div>
+			<p>POWERED BY TISTORY</p>
+		</div>
+		<div class="search">
+			
+					<input type="text" name="search" value="" placeholder="검색내용을 입력하세요." onkeypress="if (event.keyCode == 13) { try{window.location.href='/search/'+looseURIEncode(document.getElementsByName('search')[0].value);document.getElementsByName('search')[0].value='';return false;}catch(e){} }">
+					<button type="submit" onclick="try{window.location.href='/search/'+looseURIEncode(document.getElementsByName('search')[0].value);document.getElementsByName('search')[0].value='';return false;}catch(e){}">검색</button>
+				
+		</div>
+	</header>
+	<hr>
+	<section class="container">
+		
+		<article id="content">
+			
+
+			
+
+			
+
+			
+
+			<div class="inner">
+				
+
+				
+					
+					
+						<div class="hgroup">
+							<div class="category">사진 추천/[사진] 신기한 사진</div>
+							<h1>포털사이트 로고 모음 </h1>
+							<div class="post-meta">
+								<span class="author">볼봇</span>
+								<span class="date">2015. 8. 14. 09:10</span>
+								
+							</div>
+						</div>
+						<div class="entry-content">
+							<div class="contents_style"><p><span style="font-size: 12pt;"><b>안녕하세요? IT&amp;GAME 입니다.</b></span><br /></p><p><span style="font-size:11pt;"><b></b>이번 시간에는 포털사이트 로고를 보도록 하겠습니다.</span><br /></p><p><span style="font-size:11pt;">별로 의미 없는 시간 같지만, 그냥 그렇죠... 뭐...</span></p><p><span style="font-size:11pt;"><br /></span></p><p><span style="font-size: 15px; line-height: 22px;">Daum</span></p><p style="text-align: left; clear: none; float: none;"><span class="imageblock" style="display:inline-block;width:110px;;height:auto;max-width:100%"><img src="https://t1.daumcdn.net/cfile/tistory/236D2C3C55CD2E4607" style="max-width:100%;height:auto" width="110" height="110" filename="th.jpg" filemime="image/jpeg"/></span></p><p><span style="font-size: 15px; line-height: 22px;">====================================</span></p><p><span style="font-size: 15px; line-height: 22px;">Naver</span></p><p style="text-align: left; clear: none; float: none;"><span class="imageblock" style="display:inline-block;width:250px;;height:auto;max-width:100%"><span data-url="https://t1.daumcdn.net/cfile/tistory/2530083955CD2E7F1E?download" data-lightbox="lightbox"><img src="https://t1.daumcdn.net/cfile/tistory/2530083955CD2E7F1E" style="cursor: pointer;max-width:100%;height:auto" width="250" height="110" filename="네이버.jpg" filemime="image/jpeg" /></span></span></p><p>==============================================</p><p><span style="font-size: 11pt;">ZUM</span></p><p style="text-align: left; clear: none; float: none;"><span class="imageblock" style="display:inline-block;width:141px;;height:auto;max-width:100%"><img src="https://t1.daumcdn.net/cfile/tistory/2621983B55CD2EED16" style="max-width:100%;height:auto" width="141" height="57" filename="ic1.png" filemime="image/jpeg"/></span></p><p><span style="font-size: 11pt;"></span><span style="font-size: 9pt; line-height: 1.5; background-color: transparent;">==============================================</span></p><p><span style="font-size: 11pt;">Nate</span></p><p style="text-align: left; clear: none; float: none;"><span class="imageblock" style="display:inline-block;width:146px;;height:auto;max-width:100%"><img src="https://t1.daumcdn.net/cfile/tistory/2543FC3455CD2F2619" style="max-width:100%;height:auto" width="146" height="63" filename="ic2.png" filemime="image/jpeg" style=""""/></span></p><p style="text-align: left; clear: none; float: none;"><span style="font-size: 11pt;"></span><span style="font-size: 9pt; line-height: 1.5; background-color: transparent;">==============================================</span></p><p style="text-align: left; clear: none; float: none;"><span style="font-size: 9pt; line-height: 1.5; background-color: transparent;"><span style="font-size: 11pt; line-height: 1.5; background-color: transparent;">코리아닷컴</span></span></p><p style="text-align: left; clear: none; float: none;"><span class="imageblock" style="display:inline-block;width:197px;;height:auto;max-width:100%"><img src="https://t1.daumcdn.net/cfile/tistory/27062E4655CD2F5C0C" style="max-width:100%;height:auto" width="197" height="88" filename="ic3.png" filemime="image/jpeg"/></span></p><p style="text-align: left; clear: none; float: none;"><span style="font-size: 9pt; line-height: 1.5; background-color: transparent;"><span style="font-size: 11pt; line-height: 1.5; background-color: transparent;"></span></span><span style="font-size: 9pt; line-height: 1.5; background-color: transparent;">==============================================</span></p><p style="text-align: left; clear: none; float: none;"><span style="font-size: 11pt;">가자아이</span><br /></p><p style="text-align: left; clear: none; float: none;"><span style="font-size: 11pt;"></span><br /></p><p style="text-align: left; clear: none; float: none;"><span class="imageblock" style="display:inline-block;width:109px;;height:auto;max-width:100%"><img src="https://t1.daumcdn.net/cfile/tistory/2146CA3F55CD2F8D41" style="max-width:100%;height:auto" width="109" height="48" filename="ic4.png" filemime="image/jpeg" style=""""/></span></p><p style="text-align: left; clear: none; float: none;"><span style="font-size: 11pt;"><br /></span></p><p><span style="font-size: 11pt;">=================================</span></p><p><span style="font-size: 11pt;">드림위즈</span></p><p><span style="font-size: 11pt;"></span><br /></p><p style="text-align: left; clear: none; float: none;"><span class="imageblock" style="display:inline-block;width:189px;;height:auto;max-width:100%"><img src="https://t1.daumcdn.net/cfile/tistory/231C344055CD30090A" style="max-width:100%;height:auto" width="189" height="68" filename="ic5.png" filemime="image/jpeg" style=""""/></span></p><p style="text-align: left; clear: none; float: none;">============================================</p><p style="text-align: left; clear: none; float: none;"><span style="font-size: 11pt;">=============================해외 포털================================</span><br /></p><p style="text-align: left; clear: none; float: none;"><span style="font-size: 11pt;">Google 구글</span></p><p style="text-align: left; clear: none; float: none;"><span style="font-size: 11pt;"></span><br /></p><p style="text-align: left; clear: none; float: none;"><span class="imageblock" style="display:inline-block;width:110px;;height:auto;max-width:100%"><img src="https://t1.daumcdn.net/cfile/tistory/2765703E55CD304F25" style="max-width:100%;height:auto" width="110" height="110" filename="asdf.jpg" filemime="image/jpeg"/></span></p><p style="text-align: left; clear: none; float: none;"><span style="font-size: 11pt;">==================================</span></p><p><span style="font-size: 11pt;">Bing 빙</span></p><p style="text-align: left; clear: none; float: none;"><span class="imageblock" style="display:inline-block;width:110px;;height:auto;max-width:100%"><img src="https://t1.daumcdn.net/cfile/tistory/226B003E55CD314D22" style="max-width:100%;height:auto" width="110" height="110" filename="df456.jpg" filemime="image/jpeg"/></span></p><p><span style="font-size: 11pt;">==================================<br /></span></p><p><span style="font-size: 11pt;">MSN</span></p><p style="text-align: left; clear: none; float: none;"><span class="imageblock" style="display:inline-block;width:91px;;height:auto;max-width:100%"><img src="https://t1.daumcdn.net/cfile/tistory/254B2F4255CD318723" style="max-width:100%;height:auto" width="91" height="42" filename="ic6.png" filemime="image/jpeg"/></span></p><p><span style="font-size: 11pt;">===================================</span></p><p><span style="font-size: 15px; line-height: 22px;">Yahoo</span></p><p style="text-align: left; clear: none; float: none;"><span class="imageblock" style="display:inline-block;width:110px;;height:auto;max-width:100%"><img src="https://t1.daumcdn.net/cfile/tistory/230E514055CD31E614" style="max-width:100%;height:auto" width="110" height="110" filename="a456.jpg" filemime="image/jpeg"/></span></p><p><span style="font-size: 15px; line-height: 22px;"><br /></span></p><p><span style="font-size: 11pt;"><br /></span></p><p><span style="font-size: 11pt;"></span><br /></p><p style="text-align: center; clear: none; float: none;"><span class="imageblock" style="display:inline-block;width:681px;;height:auto;max-width:100%"><img src="https://t1.daumcdn.net/cfile/tistory/270DD74055CD319815" style="max-width:100%;height:auto" width="681" height="510" filename="comment.png" filemime="image/jpeg" style=""""/></span></p><p><span style="font-size: 11pt;"><br /></span></p><div class="container_postbtn #post_button_group">
+    <div class="postbtn_like">
+        
+<script>
+    window.ReactionButtonType = 'reaction';
+    window.ReactionApiUrl = '//itandgame.tistory.com/reaction';
+    window.ReactionReqBody = {
+        entryId: 94    }
+</script>
+<div class="wrap_btn" id=reaction-94></div>
+<script src=https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690/blogs/script/reaction/reaction-button-container.min.js?_version_=tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690></script>
+        <div class="wrap_btn wrap_btn_share">
+    <button type="button" class="btn_post sns_btn btn_share" data-thumbnail-url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F236D2C3C55CD2E4607" data-title="포털사이트 로고 모음" data-description="안녕하세요? IT&amp;GAME 입니다. 이번 시간에는 포털사이트 로고를 보도록 하겠습니다. 별로 의미 없는 시간 같지만, 그냥 그렇죠... 뭐... Daum  ==================================== Naver  ====================.." data-profile-image="https://t1.daumcdn.net/cfile/tistory/2419583D566C06DE1F" data-profile-name="볼봇" data-pc-url="https://itandgame.tistory.com/94" data-relative-pc-url="/94" data-blog-title="IT &amp; GAME 의 최신형 블로그">
+        <span class="ico_postbtn ico_share">공유하기</span>
+    </button>
+</div>
+                <div class="wrap_btn wrap_btn_etc" data-entry-id="94" data-entry-visibility="public" data-category-visibility="public">
+    <button type="button" class="btn_post btn_etc2"><span class="ico_postbtn ico_etc">글 요소</span></button>
+</div>
+    </div>
+    <button type="button" class="btn_menu_toolbar btn_subscription  #subscribe" data-blog-id="1847232" data-url="https://itandgame.tistory.com/94" data-device="web_pc">
+    <em class="txt_state">구독하기</em>
+    <strong class="txt_tool_id">IT & GAME 의 최신형 블로그</strong>
+    <span class="img_common_tistory ico_check_type1"></span>
+</button>
+    <div class="postbtn_ccl" data-ccl-type="">
+    <a href="https://creativecommons.org/licenses//4.0/deed.ko" target="_blank" class="link_ccl" rel="license">
+        <span class="bundle_ccl">
+                    </span>
+    </a>
+</div>
+    <!--
+<rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <Work rdf:about="">
+        <license rdf:resource="http://creativecommons.org/licenses/by-/2.0/kr/" />
+    </Work>
+    <License rdf:about="http://creativecommons.org/licenses/by-/">
+        <permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+        <permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+        <requires rdf:resource="http://web.resource.org/cc/Notice"/>
+        <requires rdf:resource="http://web.resource.org/cc/Attribution"/>
+                    </License>
+</rdf:RDF>
+-->
+</div><div class="tt-plugin tt-share-entry-with-sns tt-sns-icon-alignment-left tt-sns-icon-size-big">
+	<div class="tt-sns-wrap" id="ttSnsWrap-94">
+		<ul class="tt-sns-service-default">
+			<li class="tt-sns-service-kakaostory"><a href="javascript:;" onclick="ShareEntryWithSNS.share('kakaostory', '94', '%ED%8F%AC%ED%84%B8%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EB%A1%9C%EA%B3%A0%20%EB%AA%A8%EC%9D%8C');">카카오스토리</a></li>
+			<li class="tt-sns-service-twitter"><a href="javascript:;" onclick="ShareEntryWithSNS.share('twitter', '94', '%ED%8F%AC%ED%84%B8%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EB%A1%9C%EA%B3%A0%20%EB%AA%A8%EC%9D%8C');">트위터</a></li>
+			<li class="tt-sns-service-facebook"><a href="javascript:;" onclick="ShareEntryWithSNS.share('facebook', '94', '%ED%8F%AC%ED%84%B8%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EB%A1%9C%EA%B3%A0%20%EB%AA%A8%EC%9D%8C');">페이스북</a></li>
+		</ul>
+	</div>
+	<div class="tt-sns-clear"></div>
+</div>
+<div class="another_category another_category_color_gray">
+<h4>'<a href="/category/사진%20추천">사진 추천</a>&nbsp;>&nbsp;<a href="/category/사진%20추천/%5B사진%5D%20신기한%20사진">[사진] 신기한 사진</a>' 카테고리의 다른 글</h4>
+<table>
+<tr>
+<th>
+<a href="/94?category=588097"  class ="current" >포털사이트 로고 모음</a>&nbsp;&nbsp;<span>(0)</span>
+</th>
+<td>
+2015.08.14</td>
+</tr>
+</table></div></div>
+						</div>
+						
+							<div class="tags">
+								<h2>태그</h2>
+								<div class="items">
+									<a href="/tag/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EB%A1%9C%EA%B3%A0"  rel="tag">웹사이트 로고</a>,
+<a href="/tag/%ED%8F%AC%ED%84%B8%20%EB%A1%9C%EA%B3%A0"  rel="tag">포털 로고</a>,
+<a href="/tag/%ED%8F%AC%ED%84%B8%EB%A1%9C%EA%B3%A0"  rel="tag">포털로고</a>,
+<a href="/tag/%ED%8F%AC%ED%84%B8%EC%82%AC%EC%9D%B4%ED%8A%B8"  rel="tag">포털사이트</a>,
+<a href="/tag/%ED%8F%AC%ED%84%B8%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EB%A1%9C%EA%B3%A0"  rel="tag">포털사이트 로고</a>,
+<a href="/tag/%ED%8F%AC%ED%84%B8%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%88%9C%EC%9D%98%20%EB%A1%9C%EA%B3%A0"  rel="tag">포털사이트 순의 로고</a>
+								</div>
+							</div>
+						
+
+						
+
+						<div id="entry94Comment">
+							<div class="comments">
+								
+
+								<form method="post" action="/comment/add/94" onsubmit="return false" style="margin: 0">
+									<div class="comment-form">
+										
+											<div class="field">
+												
+													<input type="text" name="name" value="" placeholder="이름">
+													<input type="password" name="password" value="" placeholder="암호">
+												
+												<div class="secret">
+													<input type="checkbox" name="secret" id="secret">
+													<label for="secret" tabindex="0">Secret</label>
+												</div>
+											</div>
+										
+										<textarea name="comment" cols="" rows="4" placeholder="여러분의 소중한 댓글을 입력해주세요."></textarea>
+										<div class="submit">
+											<button type="submit" class="btn" onclick="addComment(this, 94); return false;">댓글달기</button>
+										</div>
+								</div>
+								</form>
+							</div>
+						</div><script type="text/javascript">loadedComments[94]=true;findFragmentAndHighlight(94)</script>
+
+					
+				
+			</div>
+
+			
+
+			
+
+			
+				<div class="pagination">
+					<a  href='/95' class="prev ">이전</a>
+					
+						<a  href='/182'><span >1</span></a>
+					
+						<a ><span >&middot;&middot;&middot;</span></a>
+					
+						<a  href='/100'><span >73</span></a>
+					
+						<a  href='/97'><span >74</span></a>
+					
+						<a  href='/96'><span >75</span></a>
+					
+						<a  href='/95'><span >76</span></a>
+					
+						<a ><span class="selected">77</span></a>
+					
+						<a  href='/93'><span >78</span></a>
+					
+						<a  href='/92'><span >79</span></a>
+					
+						<a  href='/91'><span >80</span></a>
+					
+						<a  href='/90'><span >81</span></a>
+					
+						<a ><span >&middot;&middot;&middot;</span></a>
+					
+						<a  href='/2'><span >163</span></a>
+					
+					<a  href='/93' class="next ">다음</a>
+				</div>
+			
+
+		</article>
+	</section>
+	<hr>
+	
+	<footer id="footer">
+		<p class="copyright">DESIGN BY <a href="#">TISTORY</a> <a href="https://itandgame.tistory.com/manage" class="admin">관리자</a></p>
+	</footer>
+</div>
+<script src="https://tistory1.daumcdn.net/tistory/0/pg_Poster/images/script.js"></script>
+
+<script src="//search1.daumcdn.net/search/statics/common/js/g/search_dragselection.min.js"></script>
+<script>
+    (function($) {
+        $("body").bind('copy', function (e) {
+
+            var url = document.location.href,
+                decodedUrl = decodeURI(url),
+                selection = window.getSelection();
+
+
+            if (typeof window.getSelection == "undefined") {//IE8 or earlier...
+                event.preventDefault();
+
+                var pagelink = '\n\n 출처: ' + decodedUrl,
+                    copytext = selection + pagelink;
+
+                if (window.clipboardData) {
+                    window.clipboardData.setData('Text', copytext);
+                }
+                return;
+            }
+            var body_element = document.getElementsByTagName('body')[0];
+
+            //if the selection is short let's not annoy our users
+            if (("" + selection).length < 30) return;
+
+            //create a div outside of the visible area
+            var newdiv = document.createElement('div');
+            newdiv.style.position = 'absolute';
+            newdiv.style.left = '-99999px';
+            body_element.appendChild(newdiv);
+            newdiv.appendChild(selection.getRangeAt(0).cloneContents());
+
+            //we need a <pre> tag workaround
+            //otherwise the text inside "pre" loses all the line breaks!
+            if (selection.getRangeAt(0).commonAncestorContainer.nodeName == "PRE") {
+                newdiv.innerHTML = "<pre>" + newdiv.innerHTML + "</pre>";
+            }
+
+            newdiv.innerHTML += '<br /><br />출처: <a href="' + url + '">' + escapeHTML(decodedUrl) + '</a> [IT & GAME 의 최신형 블로그]';
+
+            selection.selectAllChildren(newdiv);
+
+            window.setTimeout(function () {
+                body_element.removeChild(newdiv);
+            }, 200);
+        });
+    })(tjQuery);
+</script>
+	<script>
+	    lightbox.option({
+			"fadeDuration": 200,
+		    "resizeDuration": 200,
+		    "wrapAround": false,
+			"albumLabel": "%1 / %2",
+			"fitImagesInViewport":true ,
+			"stopEvent": false
+	    })
+	</script>            <script type="text/javascript" src="//t1.daumcdn.net/tiara/js/v1/tiara.min.js"></script>
+            <script type="text/javascript">window.tiara = {"svcDomain":"user.tistory.com","section":"\uae00\ubdf0","trackPage":"\uae00\ubdf0_\ubcf4\uae30","page":"\uae00\ubdf0","key":"1847232-94","customProps":{"userId":0,"blogId":"1847232","role":"guest","filterTarget":false,"trackPage":"\uae00\ubdf0_\ubcf4\uae30","entryId":"94"},"entry":{"entryId":"94","categoryName":"[\uc0ac\uc9c4] \uc2e0\uae30\ud55c \uc0ac\uc9c4","categoryId":"588097","author":"1386988","authorId":"1386988","image":"1386988","plink":"\/94","tags":["\uc6f9\uc0ac\uc774\ud2b8 \ub85c\uace0","\ud3ec\ud138 \ub85c\uace0","\ud3ec\ud138\ub85c\uace0","\ud3ec\ud138\uc0ac\uc774\ud2b8","\ud3ec\ud138\uc0ac\uc774\ud2b8 \ub85c\uace0","\ud3ec\ud138\uc0ac\uc774\ud2b8 \uc21c\uc758 \ub85c\uace0"],"key":"1847232-94"},"sentryDsn":"https:\/\/a53520229cd744e798d42900d76b0e2a@aem-collector.daumkakao.io\/713","kakaoAppKey":"b8aef3eeb03fa312b81795386484f051","appUserId":null};</script>
+            <script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690/blogs/script/tiara/tiara.min.js?_version_=tistory-a033c2b33e7ae4af94cec5a75f0387e9fc551690" defer></script>
+                        <script type="text/javascript">
+                window.roosevelt_params_queue = window.roosevelt_params_queue || [{channel_id: 'dk', channel_label: 'tistory'}];
+            </script>
+            <script type="text/javascript" src="//t1.daumcdn.net/midas/rt/dk_bt/roosevelt_dk_bt.js" async></script><script type="text/javascript">if(window.console!=undefined){setTimeout(console.log.bind(console,"%cTISTORY","font:8em Arial;color:#EC6521;font-weight:bold"),0);setTimeout(console.log.bind(console,"%c  나를 표현하는 블로그","font:2em sans-serif;color:#333;"),0);}</script><iframe style="position:absolute;width:1px;height:1px;left:-100px;top:-100px" src="//itandgame.tistory.com/api" id="editEntry"></iframe><div id="tistoryEtcLayer" class="layer_post"></div><div id="tistorySnsLayer" class="layer_post"></div></body>
+</html>
